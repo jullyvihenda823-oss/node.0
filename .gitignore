@@ -56,7 +56,7 @@ projects/**/dist/
 
 # Personal portfolio sites and brand sites - kept local, never published
 portfolios/
-julianah-portfolio/
+portfolio/
 techmara3/
 Portfolio_Website/
 Portfolio-website2/
